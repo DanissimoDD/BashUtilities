@@ -1,0 +1,8 @@
+tests/testtext.txt:sensibility, as well as many aspects of daily life.
+tests/testtext.txt:
+tests/testtext.txt:equal importance.
+tests/testtext.txt:
+tests/testtext.txt:Arabian art and architecture; Egyptian art and architecture; Iranian art and architecture; Mesopotamian art and architecture;
+tests/testtext.txt:and Syro-Palestinian art and architecture. For later historical and regional treatments of architecture, see African architecture;
+tests/testtext.txt:Chinese architecture; Japanese architecture; Korean architecture; Oceanic art and architecture; Western architecture;
+tests/testtext.txt:and urban planning.
